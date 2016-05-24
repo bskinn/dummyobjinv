@@ -1,0 +1,6 @@
+# Text editor bak files
+*.bak
+
+# File with HTML parsed for links &c.
+help*
+
